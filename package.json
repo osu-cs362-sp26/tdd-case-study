@@ -1,0 +1,11 @@
+{
+  "name": "tdd-case-study",
+  "version": "1.0.0",
+  "description": "Test-Driven Development: A Case Study",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
